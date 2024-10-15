@@ -1,4 +1,4 @@
-import { fetchLeaderboard } from '../ill_content.js';
+import { fetchLeaderboard } from '../cl_content.js';
 import { localize } from '../util.js';
 
 import Spinner from '../components/Spinner.js';

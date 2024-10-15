@@ -1,7 +1,7 @@
 import List from './pages/List.js';
-import ILL from './pages/ILL.js';
+import ILL from './pages/cl.js';
 import Leaderboard from './pages/Leaderboard.js';
-import ILL_Leaderboard from './pages/ILL_Leaderboard.js';
+import ILL_Leaderboard from './pages/cl_Leaderboard.js';
 import Roulette from './pages/Roulette.js';
 
 export default [
