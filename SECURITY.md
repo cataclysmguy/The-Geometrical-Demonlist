@@ -1,16 +1,21 @@
-# Security Policy
+.btn {
+    border: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 1rem;
+    margin: 0;
+    background-color: var(--color-primary);
+    color: var(--color-on-primary);
+    border-radius: 0.5rem;
+    box-shadow: 0 1px 0.5rem 0 rgba(0, 0, 102, 0.5);
+    transition: transform 100ms ease;
+}
 
-## Supported Versions
+.btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 1.0.x   | :white_check_mark: |
-
-## Reporting a Vulnerability
-
-You can Report vulnerabilities through the
-[discord server](https://discord.gg/shittylist) or by DM'ing Raily
-(iRaily#1230), BlueStone (Bluestone.#1449), Electro (Electro#0457) or
-Prometheus(Prometheus#9463). Responses to vulnerability reports usually take
-around 3 hours to more than a day, depending on how difficult fixing a
-vulnerability is.
+.btn:not(:disabled):hover:not(:active) {
+    transform: translateY(-2px);
+}
