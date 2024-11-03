@@ -8,5 +8,11 @@
     "percentToQualify": "76",
     "password": "Free To Copy",
     "records": [
+        {
+            "user":"bunni",
+            "link": "https://www.youtube.com/watch?v=FwrKMwvvPXE",
+            "percent": 100,
+            "hz": 480
+          }
     ]
 }
