@@ -8,5 +8,11 @@
     "percentToQualify": "51",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "RT2010",
+            "link": "https://youtu.be/HplBQxYIFxk?si=faIApuGA1z4DR7jT",
+            "percent": 85,
+            "hz": "60"
+          }
     ]
 }
