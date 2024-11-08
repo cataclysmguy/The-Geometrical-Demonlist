@@ -15,10 +15,16 @@
             "hz": "60"
           },
         {
+            "user": "Gremlin",
+            "link": "https://www.youtube.com/watch?v=cqfBve7shts",
+            "percent": 100,
+            "hz": "60"
+          },
+        {
             "user": "bunni",
             "link": "https://www.youtube.com/watch?v=Bv2dRJvKtFo",
             "percent": 100,
-            "hz": "480"
+            "hz": "CBF"
           },
         {
             "user": "miko",
