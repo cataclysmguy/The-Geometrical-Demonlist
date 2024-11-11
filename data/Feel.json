@@ -3,22 +3,28 @@
     "name": "Feel",
     "author": "cataclysmguy",
     "creators": ["Correspondence"],
-    "verifier": "cataclysm guy",
-    "verification": "https://youtu.be/GO9-mBZwXbQ",
+    "verifier": "Gremlin",
+    "verification": "https://www.youtube.com/watch?v=cqfBve7shts",
     "percentToQualify": "51",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "RT2010",
-            "link": "https://youtu.be/BROS7v6zXUA?si=Jxj-_5EhUjQQxrcJ",
-            "percent": 100,
-            "hz": "60"
-          },
         {
             "user": "bunni",
             "link": "https://www.youtube.com/watch?v=Bv2dRJvKtFo",
             "percent": 100,
             "hz": "480"
+          },
+        {
+            "user": "miko",
+            "link": "https://www.youtube.com/watch?v=a_F21RRgjm8",
+            "percent": 86,
+            "hz": "360"
+          },
+        {
+            "user": "CurtaGD",
+            "link": "https://youtu.be/N7X1xe-yWAA",
+            "percent": 67,
+            "hz": "240"
           }
     ]
 }

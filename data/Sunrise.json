@@ -13,6 +13,18 @@
             "link": "https://www.youtube.com/watch?v=FwrKMwvvPXE",
             "percent": 100,
             "hz": 480
+          },
+        {
+            "user":"Gremlin",
+            "link": "https://www.youtube.com/watch?v=TBPQovsNiu4",
+            "percent": 100,
+            "hz": "CBF"
+          },
+        {
+            "user": "CurtaGD",
+            "link": "https://youtu.be/oAnbHT4rgpU",
+            "percent": 83,
+            "hz": 240
           }
     ]
 }

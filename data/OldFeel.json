@@ -1,0 +1,19 @@
+
+{
+    "id": 111882783,
+    "name": "Old Feel",
+    "author": "CurtaGD",
+    "creators": ["Correspondence"],
+    "verifier": "cataclysm guy",
+    "verification": "https://www.youtube.com/watch?v=GO9-mBZwXbQ",
+    "percentToQualify": "51",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "RT2010",
+            "link": "https://youtu.be/BROS7v6zXUA?si=Jxj-_5EhUjQQxrcJ",
+            "percent": 100,
+            "hz": "60"
+          }
+    ]
+}
