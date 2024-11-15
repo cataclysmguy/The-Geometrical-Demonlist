@@ -20,6 +20,12 @@
             "link": "https://www.youtube.com/watch?v=Bv2dRJvKtFo",
             "percent": 100,
             "hz": "240"
-          }
+          },
+        {
+        "user": "Gremlin",
+        "link": "https://www.youtube.com/watch?v=ihWTKeESEvk",
+        "percent": 100,
+        "hz": "CBF"
+      }
     ]
 }
