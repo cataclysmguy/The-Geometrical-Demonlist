@@ -1,0 +1,19 @@
+{
+    "id": 111719301,
+    "name": "Can Let Go",
+    "author": "cataclysmguy",
+    "creators": ["cataclysm guy"],
+    "verifier": "cataclysm guy",
+    "verification": "https://youtu.be/Y0XNMejbfUg",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "SSB0",
+            "link": "https://youtu.be/ZRitJ-LRsjc?si=NrCSzfapiz_jyvI5",
+            "percent": 100,
+            "hz": "CBF - 240"
+          }
+
+    ]
+}

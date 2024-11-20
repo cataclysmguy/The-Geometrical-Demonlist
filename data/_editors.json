@@ -8,8 +8,11 @@
         "role": "admin",
         "name": "cataclysm guy",
         "link": "https://www.youtube.com/@cataclysmguy"
-      
-   
+    },
+    {
+        "role": "dev",
+        "name": "nile64",
+        "link": "https://www.youtube.com/@nile64" 
     },
     {
         "role": "helper",
