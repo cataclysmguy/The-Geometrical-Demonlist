@@ -1,18 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "SuperSalmon35",
+        "name": "cataclysm guy",
         "link": "https://www.youtube.com/@SuperSalmonGD"
     },
     {
         "role": "admin",
-        "name": "cataclysm guy",
-        "link": "https://www.youtube.com/@cataclysmguy"
-    },
-    {
-        "role": "dev",
-        "name": "nile64",
-        "link": "https://www.youtube.com/@nile64" 
+        "name": "MiniKey",
+        "link": "https://www.youtube.com/@minikey1692"
     },
     {
         "role": "helper",
@@ -25,9 +20,9 @@
         "link": "https://www.youtube.com/@TherealGlacialGD"
     },
     {
-        "role": "admin",
-        "name": "MiniKey",
-        "link": "https://www.youtube.com/@minikey1692"
+        "role": "dev",
+        "name": "nile64",
+        "link": "https://www.youtube.com/@nile64" 
     }
 
 
