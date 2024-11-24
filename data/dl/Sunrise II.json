@@ -8,6 +8,11 @@
     "percentToQualify": "64",
     "password": "Free To Copy",
     "records": [
-
+ {
+            "user": "Gp0",
+            "link": "https://youtu.be/Mse-bDkdGOw",
+            "percent": 84,
+            "hz": "CBF"
+          }
     ]
 }
