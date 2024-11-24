@@ -21,22 +21,22 @@
             "hz": "CBF"
           },
         {
-            "user": "CurtaGD",
-            "link": "https://youtu.be/goM9HS0IiOM",
-            "percent": 95,
-            "hz": 240
-          },
-        {
             "user":"RSJ",
             "link": "https://youtu.be/3iBpjkXsjTc?si=RHZxqImbbgfBD_dp",
             "percent": 100,
             "hz": "CBF"
-          }
+          },
          {
             "user":"Gp0",
             "link": "https://youtu.be/nw0B0lKSrDw",
             "percent": 100,
             "hz": "CBF"
+          },
+         {
+            "user": "CurtaGD",
+            "link": "https://youtu.be/goM9HS0IiOM",
+            "percent": 95,
+            "hz": 240
           }
     ]
 }
