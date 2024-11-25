@@ -1,18 +1,28 @@
 [
-    {
+   {
         "role": "owner",
+        "name": "MiniKey",
+        "link": "https://www.youtube.com/@minikey1692"
+    },
+    {
+        "role": "admin",
         "name": "cataclysm guy",
         "link": "https://www.youtube.com/@SuperSalmonGD"
     },
     {
         "role": "admin",
-        "name": "MiniKey",
-        "link": "https://www.youtube.com/@minikey1692"
+        "name": "visor702",
+        "link": "https://www.youtube.com/@Kriszvxl4"
+    },
+    {
+        "role": "admin",
+        "name": "CurtaGD",
+        "link": "https://www.youtube.com/@CurtaGD"
     },
     {
         "role": "helper",
-        "name": "CurtaGD",
-        "link": "https://www.youtube.com/@CurtaGD"
+        "name": "tod182",
+        "link": "https://www.youtube.com/@The-nc8xq"
     },
     {
         "role": "helper",
