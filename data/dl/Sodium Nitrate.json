@@ -1,0 +1,36 @@
+{
+    "id": 103336725,
+    "name": "Sodium Nitrate",
+    "author": "Gp0",
+    "creators": ["Gp0"],
+    "verifier": "Gp0",
+    "verification": "https://youtu.be/qreH2PxXo88",
+    "percentToQualify": "47",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "nile64",
+            "link": "https://youtu.be/y_ohBdjvkh4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "GHHH",
+            "link": "https://drive.google.com/file/d/1FZj0kSjfLAGKdNVu2Muvm9_NREUf6aig/view?usp=sharing",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CurtaGD",
+            "link": "https://youtu.be/irQ27WucXXE",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "tod182",
+            "link": "https://youtu.be/V6HxIEvmJEo",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
