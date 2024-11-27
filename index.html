@@ -45,10 +45,12 @@
     </head>
     <body id="app">
         <header :class="{ dark: store.dark }">
+            <div class="image-container">
             <img src = /assets/dark.png>
             <div class="logo">
-                <h2 id="title">TGDL</h2>
+                <h2 id="title" class="title">TGDL</h2>
             </div>
+        </div>
             <nav class="nav">
                 <router-link class="nav__tab" to="/">
                     <span class="type-label-lg">List</span>

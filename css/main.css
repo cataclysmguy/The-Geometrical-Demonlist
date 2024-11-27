@@ -67,6 +67,25 @@ header .logo {
     align-items: flex-end;
     gap: 1rem;
 }
+.image-container {
+    position: relative; /* Necessary for absolute positioning of the text */
+  }
+  
+  .image-container img {
+    width: 100%; /* Adjust the width as needed */
+    height: auto;
+  }
+  .text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* Center the text horizontally and vertically */
+    background-color: rgba(0, 0,   
+   0, 0.5); /* Semi-transparent background */
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
 header .nav {
     flex: 1;
 }
