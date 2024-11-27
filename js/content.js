@@ -127,8 +127,10 @@ export async function fetchLeaderboard() {
 }
 
 export async function changeList(){
+    const title = document.getElementById("title"); 
     theList = document.getElementById("list_dropdown").value;
     console.log("theList: " + theList.toString() + ", dropdown value: " + document.getElementById("list_dropdown").value.toString());
     resetList();
     resetLeaderboard();
+    title.textContent = "TGCL";
 }
