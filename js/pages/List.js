@@ -85,9 +85,6 @@ export default {
                     <div class="errors" v-show="errors.length > 0">
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
-                    <div class="og">
-                        <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
-                    </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>
                         <ol class="editors">
@@ -117,6 +114,9 @@ export default {
                     <p>
                         Do not use secret ways/bug routes.
                     </p>
+                    <div class="og">
+                        <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
+                    </div>
                 </div>
             </div>
         </main>
