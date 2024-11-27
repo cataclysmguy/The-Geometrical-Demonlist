@@ -72,7 +72,7 @@ header .logo {
   }
   
   .image-container img {
-    width: 100%; /* Adjust the width as needed */
+    width: auto;
     height: auto;
   }
   .text-overlay {
