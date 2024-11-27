@@ -61,7 +61,7 @@ header {
 }
 header .logo {
     justify-self: left;
-    transform: translateX(10px);
+    transform: translateX(20px);
     align-self: center;
     display: flex;
     align-items: flex-end;
