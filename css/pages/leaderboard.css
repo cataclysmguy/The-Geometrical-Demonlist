@@ -1,5 +1,6 @@
 .page-leaderboard-container {
     display: block;
+    flex: 30px;
 }
 .page-leaderboard {
     height: 100%;
