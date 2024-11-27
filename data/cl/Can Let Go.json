@@ -13,7 +13,18 @@
             "link": "https://youtu.be/ZRitJ-LRsjc?si=NrCSzfapiz_jyvI5",
             "percent": 100,
             "hz": "CBF - 240"
+          },
+        {
+            "user": "nozz",
+            "link": "https://www.youtube.com/watch?v=Jm1WQhJGSOs",
+            "percent": 100,
+            "hz": "CBF"
+          },
+          {
+            "user": "RileyBigMac",
+            "link": "https://www.youtube.com/watch?v=ubI3f6Mzdf8",
+            "percent": 100,
+            "hz": "165"
           }
-
     ]
 }

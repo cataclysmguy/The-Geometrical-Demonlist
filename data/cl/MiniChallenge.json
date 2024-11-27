@@ -1,0 +1,18 @@
+{
+    "id": 111838059,
+    "name": "Mini Challenge",
+    "author": "CurtaGD",
+    "creators": ["CurtaGD"],
+    "verifier": "CurtaGD",
+    "verification": "https://youtu.be/S2qNEGWzXAU",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "tod182",
+            "link": "https://youtu.be/GEqdeE65HYM?si=z33J8NS2sBBMV5OK",
+            "percent": 100,
+            "hz": "90"
+          }
+    ]
+}
