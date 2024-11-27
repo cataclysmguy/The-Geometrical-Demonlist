@@ -1,5 +1,6 @@
 .page-leaderboard-container {
     display: block;
+    justify-content: left;
 }
 .page-leaderboard {
     height: 100%;
