@@ -77,7 +77,7 @@ export default {
                     </table>
                 </div>
                 <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
-                    <p>(ノಠ益ಠ)ノ彡┻━┻</p>
+                    <p>There's been an error loading this level.</p>
                 </div>
             </div>
             <div class="meta-container">
@@ -115,7 +115,7 @@ export default {
                         Do not use secret ways/bug routes.
                     </p>
                     <div class="og">
-                        <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
+                        <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TSL</a></p>
                     </div>
                 </div>
             </div>
