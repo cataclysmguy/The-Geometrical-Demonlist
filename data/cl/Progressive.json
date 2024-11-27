@@ -8,6 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-         
+         {
+            "user": "RileyBigMac",
+            "link": "https://www.youtube.com/watch?v=xvGpxRtJybo",
+            "percent": 100,
+            "hz": "165"
+          }
     ]
 }
