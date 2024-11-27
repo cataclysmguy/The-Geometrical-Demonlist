@@ -69,7 +69,6 @@ header .logo {
 }
 header .nav {
     flex: 1;
-    margin-left: 80px;
 }
 
 main {
