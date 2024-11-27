@@ -3,8 +3,8 @@
     column-gap: 2rem;
 }
 .nav .nav__tab {
-    justify-self: left;
     padding-top: 4px;
+    margin-left: 50;
     border-bottom: 4px solid transparent;
     display: flex;
     align-items: center;
