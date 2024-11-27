@@ -60,19 +60,13 @@ header {
     }
 }
 header .logo {
-    position: absolute;
-    color: white;
-    padding: 20px;
-    text-align: center;
+    justify-self: left;
+    transform: translateX(40px);
+    align-self: center;
+    display: flex;
+    align-items: flex-end;
+    gap: 1rem;
 }
-.image-container {
-    position: relative; /* Necessary for absolute positioning of the text */
-  }
-  
-  .image-container img {
-    width: auto;
-    height: auto;
-  }
 header .nav {
     flex: 1;
 }
