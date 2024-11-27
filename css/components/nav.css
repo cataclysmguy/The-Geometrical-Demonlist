@@ -4,7 +4,7 @@
 }
 .nav .nav__tab {
     padding-top: 4px;
-    margin-left: 50;
+    justify-content: flex-start;
     border-bottom: 4px solid transparent;
     display: flex;
     align-items: center;
