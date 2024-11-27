@@ -50,7 +50,8 @@ header {
     display: flex;
     padding-inline: calc(25vw - 10rem);
     height: 4rem;
-    background-color: var(--color-primary);
+    background-color: linear-gradient(to right, purple 33%, pink 67%);
+
     color: var(--color-on-primary);
 }
 @media screen and (min-width: 1366px) {
