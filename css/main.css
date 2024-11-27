@@ -69,11 +69,6 @@ header .logo {
 }
 header .nav {
     flex: 1;
-    justify-self: left;
-    transform: translateX(40px);
-    align-self: center;
-    display: flex;
-    align-items: flex-end;
 }
 
 main {
