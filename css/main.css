@@ -69,7 +69,7 @@ header .logo {
 }
 header .nav {
     flex: 1;
-    justify-self: left;
+    justify-content: left;
 }
 
 main {
