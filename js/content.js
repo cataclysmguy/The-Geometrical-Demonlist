@@ -132,5 +132,9 @@ export async function changeList(){
     console.log("theList: " + theList.toString() + ", dropdown value: " + document.getElementById("list_dropdown").value.toString());
     resetList();
     resetLeaderboard();
-    title.textContent = "TGCL";
+    if (title.textContent === "TGDL") {
+        title.textContent = "TGCL";
+    } else if (title.textContent === "TGCL") {
+        title.textContent = "TGDL";
+    }
 }
