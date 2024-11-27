@@ -50,8 +50,7 @@ header {
     display: flex;
     padding-inline: calc(25vw - 10rem);
     height: 4rem;
-    background-color: linear-gradient(to right, purple 33%, pink 67%);
-
+    background-color: var(--color-primary);
     color: var(--color-on-primary);
 }
 @media screen and (min-width: 1366px) {
@@ -62,7 +61,7 @@ header {
 }
 header .logo {
     justify-self: left;
-    transform: translateX(0px);
+    transform: translateX(20px);
     align-self: center;
     display: flex;
     align-items: flex-end;
