@@ -1,7 +1,6 @@
 .nav {
     display: flex;
     column-gap: 2rem;
-    background-image: url(/assets/dark.png);
 }
 .nav .nav__tab {
     padding-top: 4px;
